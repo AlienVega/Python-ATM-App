@@ -1,10 +1,3 @@
-# liste = [1,3,5,7,36,78]
-# liste2 =[]
-
-# for i in range(liste[0],liste[-1]+1,2):
-#     if i not in liste:
-#         liste2.append(i)
-# print(liste2)
 
                                 # ATM UYGULAMASI
 def atm():
